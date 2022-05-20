@@ -18,7 +18,7 @@ Frameworks -> Laravel | Bootstrap | Notion of Angular
 Libraries -> React, Jquery
 Plugins -> Datatables
 Relational databases -> MySQL, PostgresSQL
-Non-relational databases -> MongoDB com Mongoose
+Non-relational databases -> MongoDB with Mongoose
 Versioning -> Git, TortoiseSVN 
 ```
 

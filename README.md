@@ -11,7 +11,7 @@ API, MVC, Google Maps API
 HTML, CSS, JSON, Sweet Alert, Select2
 Web Scrapping
 Postman, Swagger
-Docker basic
+Docker
 CI/CD (Github Actions)
 
 Frameworks -> Laravel | Bootstrap | Notion of Angular
@@ -20,6 +20,8 @@ Plugins -> Datatables
 Relational databases -> MySQL, PostgresSQL
 Non-relational databases -> MongoDB with Mongoose
 Versioning -> Git, TortoiseSVN 
+
+Estudando Apache kafka, kubernetes, terraform, ansible
 ```
 
 | <img src="https://www.picng.com/upload/php/png_php_64936.png" width="68" height="60"/> | <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" width="68" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="68" height="60"/> | <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="68" height="50"/>

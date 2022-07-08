@@ -1,6 +1,6 @@
 # Hey there, I'm Herlandio👋
 
-- Some of my knowledge, some more, some less, are:
+- I'm developer since 2016, my main language are PHP, but know others languages besides these, below some of my knowledge, some more, some less, are:
 
 ```
 PHPOO (Pure)

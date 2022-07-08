@@ -15,7 +15,7 @@ Docker
 CI/CD (Github Actions)
 
 Frameworks -> Laravel | Bootstrap | Notion of Angular
-Libraries -> React, Jquery
+Libraries -> React, React-native, Jquery
 Plugins -> Datatables
 Relational databases -> MySQL, PostgresSQL
 Non-relational databases -> MongoDB with Mongoose

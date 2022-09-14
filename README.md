@@ -3,25 +3,23 @@
 - I'm developer since 2016, my main language are PHP, but know others languages besides these, below some of my knowledge, some more, some less, are:
 
 ```
-PHPOO (Pure)
-NodeJS with express
-Java without framework basic
-Javascript
-API, MVC, Google Maps API
-HTML, CSS, JSON, Sweet Alert, Select2
-Web Scrapping
-Postman, Swagger
-Docker
-CI/CD (Github Actions)
 
-Frameworks -> Laravel | Bootstrap | Notion of Angular
-Libraries -> React, React-native, Jquery
-Plugins -> Datatables
-Relational databases -> MySQL, PostgresSQL
-Non-relational databases -> MongoDB with Mongoose
-Versioning -> Git, TortoiseSVN 
-
-Studying Apache kafka, kubernetes
+Languages: 
+    * OO PHP (Pure) | NodeJS with express | Java without framework | Javascript
+Frameworks
+    * Laravel | Bootstrap | Notion of Angular
+Libraries: 
+    * React | React-native | Jquery | Datatables
+Databases: 
+    * MySQL | PostgresSQL | MongoDB with Mongoose
+Versioning:
+    * Git | TortoiseSVN
+Documentation and Test APIs:
+    * Postman | Swagger
+Others:
+    * HTML | CSS | JSON | API | MVC | Google Maps API | Web Scrapping
+    * Docker | CI/CD (Github Actions) | S.O.L.I.D | Clean Code
+    
 ```
 
 <h3 align="left">Languages and Tools:</h3>

@@ -5,20 +5,21 @@
 ```
 
 Languages: 
-    * OO PHP (Pure) | NodeJS with express | Java without framework | Javascript
+    ✓ OO PHP (Pure) | NodeJS with express | Java without framework | Javascript
 Frameworks
-    * Laravel | Bootstrap | Notion of Angular
+    ✓ Laravel | Bootstrap | Notion of Angular
 Libraries: 
-    * React | React-native | Jquery | Datatables
+    ✓ React | React-native | Jquery | Datatables
 Databases: 
-    * MySQL | PostgresSQL | MongoDB with Mongoose
+    ✓ MySQL | PostgresSQL | MongoDB with Mongoose
 Versioning:
-    * Git | TortoiseSVN
+    ✓ Git | TortoiseSVN
 Documentation and Test APIs:
-    * Postman | Swagger
+    ✓ Postman | Swagger
 Others:
-    * HTML | CSS | JSON | API | MVC | Google Maps API | Web Scrapping
-    * Docker | CI/CD (Github Actions) | S.O.L.I.D | Clean Code
+    ✓ HTML | CSS | JSON | API | MVC | Google Maps API | Web Scrapping
+    ✓ Docker | CI/CD (Github Actions) | S.O.L.I.D | Clean Code
+    ✓ AWS (IAM • EC2, Load Balancers • Route53 • S3 • CloudFront, API Gateway) 
     
 ```
 

@@ -17,8 +17,8 @@ Versioning:
 Documentation and Test APIs:
     ✓ Postman | Swagger
 Others:
-    ✓ HTML | CSS | JSON | API | MVC | Google Maps API | Web Scrapping
-    ✓ Docker | CI/CD (Github Actions) | S.O.L.I.D | Clean Code
+    ✓ HTML | CSS | JSON | API | MVC | Google Maps API
+    ✓ Docker | CI/CD (Github Actions) | S.O.L.I.D | Clean Code | Unit Tests And TDD
     ✓ AWS (IAM • EC2, Load Balancers • Route53 • S3 • CloudFront, API Gateway) 
     
 ```

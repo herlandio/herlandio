@@ -18,7 +18,7 @@ Documentation and Test APIs:
     ✓ Postman | Swagger
 Others:
     ✓ HTML | CSS | JSON | API | MVC | Google Maps API
-    ✓ Docker | CI/CD (Github Actions) | S.O.L.I.D | Clean Code | Unit Tests And TDD
+    ✓ Docker | CI/CD (Github Actions) | S.O.L.I.D | Clean Code | Unitary tests And TDD
     ✓ AWS (IAM • EC2, Load Balancers • Route53 • S3 • CloudFront, API Gateway) 
     
 ```

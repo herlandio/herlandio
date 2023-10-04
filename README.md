@@ -5,7 +5,7 @@
 ```
 
 Languages: 
-    ✓ OO PHP (Pure) | NodeJS with express | Java without framework | Javascript
+    ✓ OO PHP (Pure) | Nodejs | Java | Javascript
 Frameworks
     ✓ Laravel | Bootstrap | Notion of Angular
 Libraries: 
@@ -18,8 +18,9 @@ Documentation and Test APIs:
     ✓ Postman | Swagger
 Others:
     ✓ HTML | CSS | JSON | API | MVC | Google Maps API
-    ✓ Docker | CI/CD (Github Actions) | S.O.L.I.D | Clean Code | Unitary tests And TDD
-    ✓ AWS (IAM • EC2, Load Balancers • Route53 • S3 • CloudFront, API Gateway) 
+    ✓ Docker | CI/CD (Github Actions) | S.O.L.I.D | Clean Code | Unitary tests And TDD | Express
+    ✓ AWS (IAM • EC2, Load Balancers • Route53 • S3 • CloudFront, API Gateway)
+    ✓ Spring Boot | Spring Cloud | Netflix Eureka | OpenApi/Swagger | Zipkin + io.micrometer | RabbitMQ | JPA | Resilience4j | OpenFeign| Flyway
     
 ```
 

@@ -20,7 +20,7 @@ Others:
     ✓ HTML | CSS | JSON | API | MVC | Google Maps API
     ✓ Docker | CI/CD (Github Actions) | S.O.L.I.D | Clean Code | Unitary tests And TDD | Express
     ✓ AWS (IAM • EC2, Load Balancers • Route53 • S3 • CloudFront, API Gateway)
-    ✓ Spring Boot | Spring Cloud | Netflix Eureka | OpenApi/Swagger | Zipkin + io.micrometer | RabbitMQ | JPA | Resilience4j | OpenFeign| Flyway
+    ✓ Spring Boot | Spring Cloud | Netflix Eureka | OpenApi/Swagger | Zipkin + io.micrometer | RabbitMQ | JPA | Resilience4j | OpenFeign | Flyway
     
 ```
 

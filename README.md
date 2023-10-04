@@ -5,7 +5,7 @@
 ```
 
 Languages: 
-    ✓ OO PHP (Pure) | Nodejs | Java | Javascript
+    ✓ PHP | Nodejs | Java | Javascript
 Frameworks
     ✓ Laravel | Bootstrap | Notion of Angular
 Libraries: 

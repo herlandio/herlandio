@@ -24,7 +24,3 @@ Others:
     
 ```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=herlandio&show_icons=true&locale=en&layout=compact" alt="herlandio" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=herlandio&show_icons=true&locale=en" alt="herlandio" /></p>
-

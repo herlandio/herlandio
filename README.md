@@ -4,23 +4,51 @@
 
 ```
 
-Languages: 
-    ✓ PHP | Nodejs | Java | Javascript
-Frameworks
-    ✓ Laravel | Bootstrap | Notion of Angular
-Libraries: 
-    ✓ React | React-native | Jquery | Datatables
-Databases: 
-    ✓ MySQL | PostgresSQL | MongoDB with Mongoose
-Versioning:
-    ✓ Git | TortoiseSVN
-Documentation and Test APIs:
-    ✓ Postman | Swagger
-Others:
-    ✓ HTML | CSS | JSON | API | MVC | Google Maps API
-    ✓ Docker | CI/CD (Github Actions) | S.O.L.I.D | Clean Code | Unitary tests And TDD | Express
-    ✓ AWS (IAM • EC2, Load Balancers • Route53 • S3 • CloudFront, API Gateway)
-    ✓ Spring Boot | Spring Cloud | Spring Security | Oauth2 | Keycloak | Netflix Eureka | OpenApi/Swagger | Zipkin + io.micrometer | RabbitMQ | JPA | Resilience4j | OpenFeign | Flyway
+Back-end:
+❖ Linguagens e Frameworks:
+ ✔ PHP (Magento 2, Laravel)
+ ✔ Node.js (Express)
+ ✔ Java (Spring Boot, Spring Cloud, Spring Security)
+❖ Criação | Integração de APIs | GraphQL
+❖ Persistência de Dados:
+ ✔ JPA | Flyway
+❖ Resiliência e Segurança:
+ ✔ Resilience4j | OAuth 2 | Keycloak
+❖ Comunicação e Serviços:
+ ✔ OpenFeign | Netflix Eureka
+❖ Documentação e Monitoramento:
+ ✔ OpenAPI/Swagger | Zipkin | io.micrometer
+❖ Banco de Dados:
+ ✔ MySQL | PostgreSQL | MongoDB
+❖ Mensageria:
+ ✔ RabbitMQ
+❖ Testes e ferramentas:
+ ✔ PHPUnit | Testes Unitários | TDD | Postman | insomnia
+❖ Virtualização:
+ ✔ Docker
+❖ Cloud:
+ ✔ AWS
+❖ CI/CD:
+ ✔ GitHub Actions
+
+Front-end:
+❖ Linguagens e Frameworks:
+ ✔ JavaScript | HTML | CSS
+ ✔ React
+ ✔ Datatables
+ ✔ Sweet Alert
+ ✔ Select2
+ ✔ Bootstrap
+ ✔ jQuery
+
+❖ Princípios e Qualidade de Código:
+ ✔ S.O.L.I.D | Clean Code
+
+❖ Controle de Versão:
+ ✔ GitLab | Git | Gitflow
+
+❖ Metodologias:
+ ✔ Metodologias ágeis
     
 ```
 

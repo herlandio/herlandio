@@ -23,6 +23,6 @@ Outros conhecimentos: </br>
 ✔ React</br>
 </br>
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=herlandio&theme=blue-green"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herlandio&theme=blue-green"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=herlandio&theme=blue-green"/>
 </div>
-<img height="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herlandio&theme=blue-green"/>

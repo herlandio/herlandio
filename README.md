@@ -5,50 +5,31 @@
 ```
 
 Back-end:
-❖ Linguagens e Frameworks:
- ✔ PHP (Magento 2, Laravel)
- ✔ Node.js (Express)
- ✔ Java (Spring Boot, Spring Cloud, Spring Security)
-❖ Criação | Integração de APIs | GraphQL
-❖ Persistência de Dados:
- ✔ JPA | Flyway
-❖ Resiliência e Segurança:
- ✔ Resilience4j | OAuth 2 | Keycloak
-❖ Comunicação e Serviços:
- ✔ OpenFeign | Netflix Eureka
-❖ Documentação e Monitoramento:
- ✔ OpenAPI/Swagger | Zipkin | io.micrometer
-❖ Banco de Dados:
- ✔ MySQL | PostgreSQL | MongoDB
-❖ Mensageria:
- ✔ RabbitMQ
-❖ Testes e ferramentas:
- ✔ PHPUnit | Testes Unitários | TDD | Postman | insomnia
-❖ Virtualização:
- ✔ Docker
-❖ Cloud:
- ✔ AWS
-❖ CI/CD:
- ✔ GitHub Actions
+✔ PHP | Magento 2 Adobe Commerce
+✔ Criação | Integração de APIs | Webservices | GraphQL
+✔ MySQL | PostgreSQL | MongoDB
+✔ RabbitMQ
+✔ PHPUnit | Testes Unitários | TDD | Postman | insomnia
+✔ Docker
+✔ AWS
+✔ CI/CD:
 
 Front-end:
-❖ Linguagens e Frameworks:
- ✔ JavaScript | HTML | CSS
- ✔ React
- ✔ Datatables
- ✔ Sweet Alert
- ✔ Select2
- ✔ Bootstrap
- ✔ jQuery
+✔ JavaScript | HTML | CSS | Bootstrap | jQuery | Datatables | Sweet Alert | Select2
 
-❖ Princípios e Qualidade de Código:
- ✔ S.O.L.I.D | Clean Code
+✔ S.O.L.I.D | Clean Code
+✔ GitLab | Git | Gitflow
+✔ Metodologias ágeis
 
-❖ Controle de Versão:
- ✔ GitLab | Git | Gitflow
-
-❖ Metodologias:
- ✔ Metodologias ágeis
-    
+Outros conhecimentos:
+✔ Laravel
+✔ Node.js (Express)
+✔ Java | Spring Boot | Spring Cloud | Spring Security
+✔ JPA | Flyway
+✔ Resilience4j | OAuth 2 | Keycloak
+✔ OpenFeign | Netflix Eureka
+✔ OpenAPI/Swagger | Zipkin | io.micrometer
+✔ React
+ 
 ```
 

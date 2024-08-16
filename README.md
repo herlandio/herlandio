@@ -1,7 +1,7 @@
 <h1 align="center">Hi,👋, I'm Herlandio</h1>
 <h3 align="center">Back-end developer</h3>
 
-I'm developer over 7 years and during this time create some projects, so Feel free to visit some of my repositories below.
+I'm developer 7 years and during this time create some projects, so Feel free to visit some of my repositories below.
 
 Page to currency convert and apply fee about transactions with credit cards and tickets using PHP with laravel, blade, bootstrap, javascript<Br/> 
 Repository: [Currency conversion](https://github.com/herlandio/conversao-de-moeda)<Br/>

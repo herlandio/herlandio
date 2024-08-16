@@ -3,13 +3,13 @@
 
 I'm developer over 7 years and during this time create some projects, so Feel free to visit some of my repositories below.
 
-Page to currency convert and apply fee about transactions with credit cards and tickets with laravel, blade, bootstrap, javascript<Br/> 
+Page to currency convert and apply fee about transactions with credit cards and tickets using PHP with laravel, blade, bootstrap, javascript<Br/> 
 Repository: [Currency conversion](https://github.com/herlandio/conversao-de-moeda)<Br/>
 
 The API was created to management products using NodeJS with express, Logs in files, JWT authentication, Github actions, MongoDB with Mongoose connected to Cloud MongoDB Atlas<Br/>
 Repository: [Api mongodb and nodejs](https://github.com/herlandio/API-Nodejs-MongoDB)<Br/>
 
-Api to management of the health plans with java 17, spring boot, security, swagger/openapi and h2.<Br/>
+Api to management of the health plans using java 17 with spring boot, security, swagger/openapi and h2.<Br/>
 Repository: [Api to management health plans](https://github.com/herlandio/ekan-test-spring-boot-api)<Br/>
 
 Basic system to management products and categories with pure php. <Br/>

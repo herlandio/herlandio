@@ -3,22 +3,22 @@
 
 I'm developer 7 years and during this time create some projects, so Feel free to visit some of my repositories below.
 
-Page to currency convert and apply fee about transactions with credit cards and tickets using PHP with laravel, blade, bootstrap, javascript<Br/> 
+Page to currency convert and apply fee about transactions with credit cards and tickets using **PHP** with **laravel**, **blade**, **bootstrap**, **javascript**<Br/> 
 Repository: [Currency conversion](https://github.com/herlandio/conversao-de-moeda)<Br/>
 
-The API was created to management products using NodeJS with express, Logs in files, JWT authentication, Github actions, MongoDB with Mongoose connected to Cloud MongoDB Atlas<Br/>
+The API was created to management products using **NodeJS with express**, Logs in files, **JWT** authentication**, **Github actions**, **MongoDB** with **Mongoose** connected to **Cloud MongoDB Atlas**<Br/>
 Repository: [Api mongodb and nodejs](https://github.com/herlandio/API-Nodejs-MongoDB)<Br/>
 
-Api to management of the health plans using java 17 with spring boot, security, swagger/openapi and h2.<Br/>
+Api to management of the health plans using **java 17** with **spring boot**, **security**, **swagger/openapi** and **h2**.<Br/>
 Repository: [Api to management health plans](https://github.com/herlandio/ekan-test-spring-boot-api)<Br/>
 
-Basic system to management products and categories with pure php. <Br/>
+Basic system to management products and categories with pure **php**. <Br/>
 Repository: [Management products and categories](https://github.com/herlandio/gerenciamento-de-produtos)<Br/>
 
-Web crawler for capture news of the [portal de compras do governo federal](https://www.gov.br/compras/pt-br/acesso-a-informacao/noticias) with php and docker.<Br/>
+Web crawler for capture news of the [portal de compras do governo federal](https://www.gov.br/compras/pt-br/acesso-a-informacao/noticias) with **php** and **docker**.<Br/>
 Repository: [Web crawler to extract data from the page comprasnet](https://github.com/herlandio/webcrawler-comprasnet)<Br/>
 
-Page to list movies with react, laravel and docker [the movie db](https://api.themoviedb.org)<Br/>
+Page to list movies with **react**, **laravel** and **docker** [the movie db](https://api.themoviedb.org)<Br/>
 Repository: [List movies](https://github.com/herlandio/Laravel-ReactJS-TheMovieDB)<Br/>
 
 Also see some scripts to validate docs or create masks for inputs or texts or [click here](https://github.com/herlandio?tab=repositories) for see my others repositories.<Br/>

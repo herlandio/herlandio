@@ -15,9 +15,6 @@ Repository: [Api to management health plans](https://github.com/herlandio/ekan-t
 Basic system to management products and categories with pure **php**. <Br/>
 Repository: [Management products and categories](https://github.com/herlandio/gerenciamento-de-produtos)<Br/>
 
-Web crawler for capture news of the [portal de compras do governo federal](https://www.gov.br/compras/pt-br/acesso-a-informacao/noticias) with **php** and **docker**.<Br/>
-Repository: [Web crawler to extract data from the page comprasnet](https://github.com/herlandio/webcrawler-comprasnet)<Br/>
-
 Page to list movies with **react**, **laravel** and **docker** [the movie db](https://api.themoviedb.org)<Br/>
 Repository: [List movies](https://github.com/herlandio/Laravel-ReactJS-TheMovieDB)<Br/>
 

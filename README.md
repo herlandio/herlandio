@@ -3,31 +3,60 @@
 
 I'm developer 7 years and during this time create some projects, so Feel free to visit some of my repositories below.
 
-Page to currency convert and apply fee about transactions with credit cards and tickets using **PHP** with **laravel**, **blade**, **bootstrap**, **javascript**<Br/> 
-Repository: [Currency conversion](https://github.com/herlandio/conversao-de-moeda)<Br/>
+## Projects
 
-The API was created to management products using **NodeJS with express**, Logs in files, **JWT** authentication**, **Github actions**, **MongoDB** with **Mongoose** connected to **Cloud MongoDB Atlas**<Br/>
-Repository: [Api mongodb and nodejs](https://github.com/herlandio/API-Nodejs-MongoDB)<Br/>
+### 1. [Currency Conversion](https://github.com/your-username/currency-conversion)
+A web application for converting currencies and applying transaction fees for credit cards and tickets. Built using:
+- **PHP with Laravel** for the back-end logic
+- **Blade** for templating
+- **Bootstrap** for responsive UI design
+- **JavaScript** for client-side interactions
 
-Api to management of the health plans using **java 17** with **spring boot**, **security**, **swagger/openapi** and **h2**.<Br/>
-Repository: [Api to management health plans](https://github.com/herlandio/ekan-test-spring-boot-api)<Br/>
+### 2. [API with MongoDB and Node.js](https://github.com/your-username/api-mongodb-nodejs)
+This API was created for managing products. It includes:
+- **Node.js with Express** for building the RESTful API
+- **File-based logging** for tracking activity
+- **JWT Authentication** for secure access
+- **GitHub Actions** for CI/CD
+- **MongoDB with Mongoose** for database management, connected to **MongoDB Atlas** cloud service
 
-Basic system to management products and categories with pure **php**. <Br/>
-Repository: [Management products and categories](https://github.com/herlandio/gerenciamento-de-produtos)<Br/>
+### 3. [Health Plans Management API](https://github.com/your-username/health-plans-management)
+A RESTful API for managing health plans, developed using:
+- **Java 17** with **Spring Boot** for the back-end
+- **Spring Security** for authentication and authorization
+- **Swagger/OpenAPI** for API documentation
+- **H2 Database** for in-memory storage during development
 
-Page to list movies with **react**, **laravel** and **docker** [the movie db](https://api.themoviedb.org)<Br/>
-Repository: [List movies](https://github.com/herlandio/Laravel-ReactJS-TheMovieDB)<Br/>
+### 4. [Product and Category Management System](https://github.com/your-username/product-category-management)
+A basic system for managing products and categories, built with:
+- **Pure PHP** for simplicity and direct control over the codebase
 
-Also see some scripts to validate docs or create masks for inputs or texts or [click here](https://github.com/herlandio?tab=repositories) for see my others repositories.<Br/>
+### 5. [Movie Listing Page](https://github.com/your-username/movie-listing)
+A web application to list movies, leveraging:
+- **React** for a dynamic and interactive UI
+- **Laravel** for the back-end
+- **Docker** for containerized deployment
+- **The Movie Database (TMDb) API** for retrieving movie data
 
-Validate CPF:<Br/>
-1. [PHP](https://gist.github.com/herlandio/4fa87cbf156d354f6e5a90468b570a59)<Br/>
-2. [Java](https://gist.github.com/herlandio/b2f8a1e78f7aef1008545b7fb56c965c)<Br/>
-3. [Javascript](https://gist.github.com/herlandio/4d91e5cee58035d8f0a0e474ce80ab2e)<Br/>
-4. [Typescript](https://gist.github.com/herlandio/0ccf8772704942e2232b5a1e5d3387bb)<Br/>
+## Utility Scripts
 
-Create masks: <Br/>
-1. [Javascript](https://gist.github.com/herlandio/e0a2f3574223052b9ed7740d712c7611)<Br/>
+I've also developed several scripts for validating documents and creating input masks. Below are some examples:
+
+### Document Validation Scripts
+- **[PHP - Validate CPF](https://github.com/your-username/validate-cpf-php)**
+- **[Java - Validate CPF](https://github.com/your-username/validate-cpf-java)**
+- **[JavaScript - Validate CPF](https://github.com/your-username/validate-cpf-js)**
+- **[TypeScript - Validate CPF](https://github.com/your-username/validate-cpf-ts)**
+
+### Input Mask Scripts
+- **[JavaScript - Create Masks](https://github.com/your-username/create-masks-js)**
+
+## Additional Repositories
+Feel free to explore my other repositories [here](https://github.com/your-username?tab=repositories).
+
+---
+
+Thank you for visiting my portfolio. If you have any questions or would like to collaborate, don't hesitate to reach out!
 
 <div>
   <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=herlandio&show_icons=true&locale=en&layout=compact" alt="herlandio" /></p>

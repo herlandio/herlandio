@@ -43,10 +43,10 @@ A web application to list movies, leveraging:
 I've also developed several scripts for validating documents and creating input masks. Below are some examples:
 
 ### Document Validation Scripts
-- **[PHP - Validate CPF](https://github.com/herlandio/4fa87cbf156d354f6e5a90468b570a59)**
-- **[Java - Validate CPF](https://github.com/herlandio/b2f8a1e78f7aef1008545b7fb56c965c)**
-- **[JavaScript - Validate CPF](https://github.com/herlandio/4d91e5cee58035d8f0a0e474ce80ab2e)**
-- **[TypeScript - Validate CPF](https://github.com/0ccf8772704942e2232b5a1e5d3387bb)**
+- **[PHP - Validate CPF](https://gist.github.com/herlandio/4fa87cbf156d354f6e5a90468b570a59)**
+- **[Java - Validate CPF](https://gist.github.com/herlandio/b2f8a1e78f7aef1008545b7fb56c965c)**
+- **[JavaScript - Validate CPF](https://gist.github.com/herlandio/4d91e5cee58035d8f0a0e474ce80ab2e)**
+- **[TypeScript - Validate CPF](https://gist.github.com/0ccf8772704942e2232b5a1e5d3387bb)**
 
 ### Input Mask Scripts
 - **[JavaScript - Create Masks](https://github.com/herlandio/e0a2f3574223052b9ed7740d712c7611)**

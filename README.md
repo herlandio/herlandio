@@ -7,8 +7,11 @@ I'm developer 7 years and during this time create some projects, so Feel free to
 
 ### 1. [Currency Conversion](https://github.com/herlandio/conversao-de-moeda)
 A web application for converting currencies and applying transaction fees for credit cards and tickets. Built using:
-<img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-0.png" height="200px" width="280px" alt="img-0"/>
-<img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-1.png" height="200px" width="280px" alt="img-1"/>
+<div>
+  <img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-0.png" height="200px" width="280px" alt="img-0"/>
+  <img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-1.png" height="200px" width="280px" alt="img-1"/>
+</div>
+
 - **PHP with Laravel** for the back-end logic
 - **Blade** for templating
 - **Bootstrap** for responsive UI design
@@ -16,6 +19,11 @@ A web application for converting currencies and applying transaction fees for cr
 
 ### 2. [API with MongoDB and Node.js](https://github.com/herlandio/API-Nodejs-MongoDB)
 This API was created for managing products. It includes:
+<div>
+  <img src="https://github.com/herlandio/api-nodejs-mongodb/blob/main/img-n-1.png" height="200px" width="280px" alt="img-n-0"/>
+  <img src="https://github.com/herlandio/api-nodejs-mongodb/blob/main/img-n-0.png" height="200px" width="280px" alt="img-n-1"/>
+</div>
+
 - **Node.js with Express** for building the RESTful API
 - **File-based logging** for tracking activity
 - **JWT Authentication** for secure access

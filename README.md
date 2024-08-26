@@ -7,6 +7,8 @@ I'm developer 7 years and during this time create some projects, so Feel free to
 
 ### 1. [Currency Conversion](https://github.com/herlandio/conversao-de-moeda)
 A web application for converting currencies and applying transaction fees for credit cards and tickets. Built using:
+<img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-0.png" height="200px" width="280px" alt="img-0"/>
+<img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-1.png" height="200px" width="280px" alt="img-1"/>
 - **PHP with Laravel** for the back-end logic
 - **Blade** for templating
 - **Bootstrap** for responsive UI design

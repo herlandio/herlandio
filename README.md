@@ -30,23 +30,31 @@ This API was created for managing products. It includes:
 - **GitHub Actions** for CI/CD
 - **MongoDB with Mongoose** for database management, connected to **MongoDB Atlas** cloud service
 
-### 3. [Health Plans Management API](https://github.com/herlandio/ekan-test-spring-boot-api)
+### 3. [Movie Listing Page](https://github.com/herlandio/Laravel-ReactJS-TheMovieDB)
+A web application to list movies, leveraging:
+<div>
+  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204407.png" height="200px" width="280px" alt="img-0"/>
+  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204508.png" height="200px" width="280px" alt="img-1"/>
+  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204528.png" height="200px" width="280px" alt="img-1"/>
+</div>
+
+- **React** for a dynamic and interactive UI
+- **Laravel** for the back-end
+- **Docker** for containerized deployment
+- **The Movie Database (TMDb) API** for retrieving movie data
+
+### 4. [Health Plans Management API](https://github.com/herlandio/ekan-test-spring-boot-api)
 A RESTful API for managing health plans, developed using:
 - **Java 17** with **Spring Boot** for the back-end
 - **Spring Security** for authentication and authorization
 - **Swagger/OpenAPI** for API documentation
 - **H2 Database** for in-memory storage during development
 
-### 4. [Product and Category Management System](https://github.com/herlandio/gerenciamento-de-produtos)
+### 5. [Product and Category Management System](https://github.com/herlandio/gerenciamento-de-produtos)
 A basic system for managing products and categories, built with:
 - **Pure PHP** for simplicity and direct control over the codebase
 
-### 5. [Movie Listing Page](https://github.com/herlandio/Laravel-ReactJS-TheMovieDB)
-A web application to list movies, leveraging:
-- **React** for a dynamic and interactive UI
-- **Laravel** for the back-end
-- **Docker** for containerized deployment
-- **The Movie Database (TMDb) API** for retrieving movie data
+
 
 ## Utility Scripts
 

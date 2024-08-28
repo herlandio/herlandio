@@ -45,6 +45,10 @@ A web application to list movies, leveraging:
 
 ### 4. [Health Plans Management API](https://github.com/herlandio/ekan-test-spring-boot-api)
 A RESTful API for managing health plans, developed using:
+<div>
+  <img src="https://github.com/herlandio/ekan-test-spring-boot-api/blob/main/src/main/resources/Captura%20de%20tela%202024-08-27%20212342.png" height="200px" width="280px" alt="img-0"/>
+</div>
+
 - **Java 17** with **Spring Boot** for the back-end
 - **Spring Security** for authentication and authorization
 - **Swagger/OpenAPI** for API documentation
@@ -53,8 +57,6 @@ A RESTful API for managing health plans, developed using:
 ### 5. [Product and Category Management System](https://github.com/herlandio/gerenciamento-de-produtos)
 A basic system for managing products and categories, built with:
 - **Pure PHP** for simplicity and direct control over the codebase
-
-
 
 ## Utility Scripts
 

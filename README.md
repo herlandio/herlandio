@@ -12,10 +12,12 @@ A web application for converting currencies and applying transaction fees for cr
   <img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-1.png" height="200px" width="280px" alt="img-1"/>
 </div>
 
-- **PHP with Laravel** for the back-end logic
+- **PHP 8.2 with Laravel 11** for the back-end logic
 - **Blade** for templating
-- **Bootstrap** for responsive UI design
+- **Bootstrap 4.6** for responsive UI design
 - **JavaScript** for client-side interactions
+- **HTML** for marking
+- **CSS** for stylization
 
 ### 2. [API with MongoDB and Node.js](https://github.com/herlandio/API-Nodejs-MongoDB)
 This API was created for managing products. It includes:
@@ -29,6 +31,9 @@ This API was created for managing products. It includes:
 - **JWT Authentication** for secure access
 - **GitHub Actions** for CI/CD
 - **MongoDB with Mongoose** for database management, connected to **MongoDB Atlas** cloud service
+- **Swagger** for documentation api
+- **Docker** for containerized deployment
+- **Docker-compose** for manager containers
 
 ### 3. [Movie Listing Page](https://github.com/herlandio/Laravel-ReactJS-TheMovieDB)
 A web application to list movies, leveraging:
@@ -39,9 +44,15 @@ A web application to list movies, leveraging:
 </div>
 
 - **React** for a dynamic and interactive UI
+- **HTML** for marking
+- **CSS** for stylization
+- **Font awesome** for icons
+- **Bootstrap** for style
 - **Laravel** for the back-end
 - **Docker** for containerized deployment
 - **The Movie Database (TMDb) API** for retrieving movie data
+- **Docker** for containerized deployment
+- **Docker-compose** for manager containers
 
 ### 4. [Health Plans Management API](https://github.com/herlandio/ekan-test-spring-boot-api)
 A RESTful API for managing health plans, developed using:

@@ -65,7 +65,7 @@ A RESTful API for managing health plans, developed using:
 - **Swagger/OpenAPI** for API documentation
 - **H2 Database** for in-memory storage during development
 
-### 5. [Product and Category Management System with PHP and Docker/Docker-compose](https://github.com/herlandio/gerenciamento-de-produtos)
+### 5. [Product and Category Management System with PHP and Docker](https://github.com/herlandio/gerenciamento-de-produtos)
 A basic system for managing products and categories, built with:
 <div>
   <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124733.png" height="160px" width="280px" alt="img-0"/>

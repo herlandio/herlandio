@@ -63,7 +63,15 @@ A basic system for managing products and categories, built with:
   <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124934.png" height="200px" width="280px" alt="img-1"/>
 </div>
 
-- **Pure PHP** for simplicity and direct control over the codebase
+- **Pure PHP 7.4** for simplicity and direct control over the codebase
+- **Docker** for containerized deployment
+- **Docker-compose** for manager containers
+- **Bramus-router** for manager routes
+- **Mysql** for database
+- **Bootstrap framework** for style
+- **Font awesome** for icons
+- **Sweet alert** for alerts
+- **Jquery**
 
 ## Utility Scripts
 

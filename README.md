@@ -22,8 +22,8 @@ A web application for converting currencies and applying transaction fees for cr
 ### 2. [API with MongoDB and Node.js](https://github.com/herlandio/API-Nodejs-MongoDB)
 This API was created for managing products. It includes:
 <div>
-  <img src="https://github.com/herlandio/api-nodejs-mongodb/blob/main/img-n-1.png" height="200px" width="280px" alt="img-n-0"/>
-  <img src="https://github.com/herlandio/api-nodejs-mongodb/blob/main/img-n-0.png" height="200px" width="280px" alt="img-n-1"/>
+  <img src="https://github.com/herlandio/api-nodejs-mongodb/blob/main/img-n-1.png" height="160px" width="280px" alt="img-n-0"/>
+  <img src="https://github.com/herlandio/api-nodejs-mongodb/blob/main/img-n-0.png" height="160px" width="280px" alt="img-n-1"/>
 </div>
 
 - **Node.js with Express** for building the RESTful API
@@ -38,9 +38,9 @@ This API was created for managing products. It includes:
 ### 3. [Movie Listing Page](https://github.com/herlandio/Laravel-ReactJS-TheMovieDB)
 A web application to list movies, leveraging:
 <div>
-  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204407.png" height="200px" width="280px" alt="img-0"/>
-  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204508.png" height="200px" width="280px" alt="img-1"/>
-  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204528.png" height="200px" width="280px" alt="img-1"/>
+  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204407.png" height="160px" width="280px" alt="img-0"/>
+  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204508.png" height="160px" width="280px" alt="img-1"/>
+  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204528.png" height="160px" width="280px" alt="img-1"/>
 </div>
 
 - **React** for a dynamic and interactive UI
@@ -57,7 +57,7 @@ A web application to list movies, leveraging:
 ### 4. [Health Plans Management API](https://github.com/herlandio/ekan-test-spring-boot-api)
 A RESTful API for managing health plans, developed using:
 <div>
-  <img src="https://github.com/herlandio/ekan-test-spring-boot-api/blob/main/src/main/resources/Captura%20de%20tela%202024-08-27%20212342.png" height="200px" width="280px" alt="img-0"/>
+  <img src="https://github.com/herlandio/ekan-test-spring-boot-api/blob/main/src/main/resources/Captura%20de%20tela%202024-08-27%20212342.png" height="160px" width="280px" alt="img-0"/>
 </div>
 
 - **Java 17** with **Spring Boot** for the back-end
@@ -68,10 +68,10 @@ A RESTful API for managing health plans, developed using:
 ### 5. [Product and Category Management System](https://github.com/herlandio/gerenciamento-de-produtos)
 A basic system for managing products and categories, built with:
 <div>
-  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124733.png" height="200px" width="280px" alt="img-0"/>
-  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124807.png" height="200px" width="280px" alt="img-1"/>
-  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124910.png" height="200px" width="280px" alt="img-1"/>
-  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124934.png" height="200px" width="280px" alt="img-1"/>
+  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124733.png" height="160px" width="280px" alt="img-0"/>
+  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124807.png" height="160px" width="280px" alt="img-1"/>
+  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124910.png" height="160px" width="280px" alt="img-1"/>
+  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124934.png" height="160px" width="280px" alt="img-1"/>
 </div>
 
 - **Pure PHP 7.4** for simplicity and direct control over the codebase

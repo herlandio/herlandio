@@ -56,6 +56,13 @@ A RESTful API for managing health plans, developed using:
 
 ### 5. [Product and Category Management System](https://github.com/herlandio/gerenciamento-de-produtos)
 A basic system for managing products and categories, built with:
+<div>
+  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124733.png" height="200px" width="280px" alt="img-0"/>
+  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124807.png" height="200px" width="280px" alt="img-1"/>
+  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124910.png" height="200px" width="280px" alt="img-1"/>
+  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124934.png" height="200px" width="280px" alt="img-1"/>
+</div>
+
 - **Pure PHP** for simplicity and direct control over the codebase
 
 ## Utility Scripts

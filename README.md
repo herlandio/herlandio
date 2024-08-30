@@ -5,7 +5,7 @@ I'm developer 7 years and during this time create some projects, so Feel free to
 
 ## Projects
 
-### 1. [Currency Conversion](https://github.com/herlandio/conversao-de-moeda)
+### 1. [Currency Conversion with Laravel 11](https://github.com/herlandio/conversao-de-moeda)
 A web application for converting currencies and applying transaction fees for credit cards and tickets. Built using:
 <div>
   <img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-0.png" height="200px" width="280px" alt="img-0"/>
@@ -35,7 +35,7 @@ This API was created for managing products. It includes:
 - **Docker** for containerized deployment
 - **Docker-compose** for manager containers
 
-### 3. [Movie Listing Page](https://github.com/herlandio/Laravel-ReactJS-TheMovieDB)
+### 3. [Movie Listing Page with Laravel and React](https://github.com/herlandio/Laravel-ReactJS-TheMovieDB)
 A web application to list movies, leveraging:
 <div>
   <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204407.png" height="160px" width="280px" alt="img-0"/>
@@ -54,7 +54,7 @@ A web application to list movies, leveraging:
 - **Docker** for containerized deployment
 - **Docker-compose** for manager containers
 
-### 4. [Health Plans Management API](https://github.com/herlandio/ekan-test-spring-boot-api)
+### 4. [Health Plans Management API with Spring boot and Java 17](https://github.com/herlandio/ekan-test-spring-boot-api)
 A RESTful API for managing health plans, developed using:
 <div>
   <img src="https://github.com/herlandio/ekan-test-spring-boot-api/blob/main/src/main/resources/Captura%20de%20tela%202024-08-27%20212342.png" height="160px" width="280px" alt="img-0"/>
@@ -65,7 +65,7 @@ A RESTful API for managing health plans, developed using:
 - **Swagger/OpenAPI** for API documentation
 - **H2 Database** for in-memory storage during development
 
-### 5. [Product and Category Management System](https://github.com/herlandio/gerenciamento-de-produtos)
+### 5. [Product and Category Management System with PHP and Docker/Docker-compose](https://github.com/herlandio/gerenciamento-de-produtos)
 A basic system for managing products and categories, built with:
 <div>
   <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124733.png" height="160px" width="280px" alt="img-0"/>

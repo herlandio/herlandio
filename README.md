@@ -82,6 +82,7 @@ A basic system for managing products and categories, built with:
 - **Pure PHP 7.4** for simplicity and direct control over the codebase
 - **Docker** for containerized deployment
 - **Docker-compose** for manager containers
+- **K8s** orchestration of containers
 - **Bramus-router** for manager routes
 - **Mysql** for database
 - **Bootstrap framework** for style

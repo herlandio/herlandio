@@ -101,7 +101,7 @@ I've also developed several scripts for validating documents and creating input 
 - **[TypeScript - Validate CPF](https://gist.github.com/0ccf8772704942e2232b5a1e5d3387bb)**
 
 ### Input Mask Scripts
-- **[JavaScript - Create Masks](https://github.com/herlandio/e0a2f3574223052b9ed7740d712c7611)**
+- **[JavaScript - Create Masks](https://gist.github.com/herlandio/e0a2f3574223052b9ed7740d712c7611)**
 
 ## Additional Repositories
 Feel free to explore my other repositories [here](https://github.com/herlandio?tab=repositories).

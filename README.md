@@ -5,7 +5,7 @@ I'm developer 7 years and during this time create some projects, so Feel free to
 
 ## Projects
 
-### 1. [Teste técnico Ekan] [Health Plans Management API with Spring boot and Java 17](https://github.com/herlandio/teste-tecnico-ekan-spring-boot-api)
+### [Teste técnico Ekan] [Health Plans Management API with Spring boot and Java 17](https://github.com/herlandio/teste-tecnico-ekan-spring-boot-api)
 <div>
   <img src="https://github.com/herlandio/ekan-test-spring-boot-api/blob/main/src/main/resources/Captura%20de%20tela%202024-08-27%20212342.png" height="160px" width="280px" alt="img-0"/>
 </div>
@@ -17,7 +17,24 @@ A RESTful API for managing health plans, developed using:
 - **Swagger/OpenAPI** for API documentation
 - **H2 Database** for in-memory storage during development
 
-### 2. [Teste técnico oliveira trust] [Currency Conversion with Laravel 11](https://github.com/herlandio/teste-tecnico-oliveira-trust-conversao-de-moeda)
+### [API with MongoDB and Node.js](https://github.com/herlandio/API-Nodejs-MongoDB)
+<div>
+  <img src="https://github.com/herlandio/api-nodejs-mongodb/blob/main/img-n-1.png" height="160px" width="280px" alt="img-n-0"/>
+  <img src="https://github.com/herlandio/api-nodejs-mongodb/blob/main/img-n-0.png" height="160px" width="280px" alt="img-n-1"/>
+</div>
+
+This API was created for managing products. It includes:
+
+- **Node.js with Express** for building the RESTful API
+- **File-based logging** for tracking activity
+- **JWT Authentication** for secure access
+- **GitHub Actions** for CI/CD
+- **MongoDB with Mongoose** for database management, connected to **MongoDB Atlas** cloud service
+- **Swagger** for documentation api
+- **Docker** for containerized deployment
+- **Docker-compose** for manager containers
+
+### [Teste técnico oliveira trust] [Currency Conversion with Laravel 11](https://github.com/herlandio/teste-tecnico-oliveira-trust-conversao-de-moeda)
 <div>
   <img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-0.png" height="200px" width="280px" alt="img-0"/>
   <img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-1.png" height="200px" width="280px" alt="img-1"/>
@@ -32,7 +49,7 @@ A web application for converting currencies and applying transaction fees for cr
 - **HTML** for marking
 - **CSS** for stylization
 
-### 3. [Teste técnico WebJump] [Product and Category Management System with PHP and Docker](https://github.com/herlandio/teste-tecnico-webjump-gerenciamento-de-produtos)
+### [Teste técnico WebJump] [Product and Category Management System with PHP and Docker](https://github.com/herlandio/teste-tecnico-webjump-gerenciamento-de-produtos)
 <div>
   <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124733.png" height="160px" width="280px" alt="img-0"/>
   <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124807.png" height="160px" width="280px" alt="img-1"/>
@@ -53,24 +70,7 @@ A basic system for managing products and categories, built with:
 - **Sweet alert** for alerts
 - **Jquery**
 
-### 4. [API with MongoDB and Node.js](https://github.com/herlandio/API-Nodejs-MongoDB)
-<div>
-  <img src="https://github.com/herlandio/api-nodejs-mongodb/blob/main/img-n-1.png" height="160px" width="280px" alt="img-n-0"/>
-  <img src="https://github.com/herlandio/api-nodejs-mongodb/blob/main/img-n-0.png" height="160px" width="280px" alt="img-n-1"/>
-</div>
-
-This API was created for managing products. It includes:
-
-- **Node.js with Express** for building the RESTful API
-- **File-based logging** for tracking activity
-- **JWT Authentication** for secure access
-- **GitHub Actions** for CI/CD
-- **MongoDB with Mongoose** for database management, connected to **MongoDB Atlas** cloud service
-- **Swagger** for documentation api
-- **Docker** for containerized deployment
-- **Docker-compose** for manager containers
-
-### 5. [Movie Listing Page with Laravel and React](https://github.com/herlandio/Laravel-ReactJS-TheMovieDB)
+### [Movie Listing Page with Laravel and React](https://github.com/herlandio/Laravel-ReactJS-TheMovieDB)
 <div>
   <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204407.png" height="160px" width="280px" alt="img-0"/>
   <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204508.png" height="160px" width="280px" alt="img-1"/>

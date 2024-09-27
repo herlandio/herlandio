@@ -5,7 +5,19 @@ I'm developer 7 years and during this time create some projects, so Feel free to
 
 ## Projects
 
-### 1. [Currency Conversion with Laravel 11](https://github.com/herlandio/conversao-de-moeda)
+### 1. [Teste técnico Ekan] [Health Plans Management API with Spring boot and Java 17](https://github.com/herlandio/ekan-test-spring-boot-api)
+<div>
+  <img src="https://github.com/herlandio/ekan-test-spring-boot-api/blob/main/src/main/resources/Captura%20de%20tela%202024-08-27%20212342.png" height="160px" width="280px" alt="img-0"/>
+</div>
+
+A RESTful API for managing health plans, developed using:
+
+- **Java 17** with **Spring Boot** for the back-end
+- **Spring Security** for authentication and authorization
+- **Swagger/OpenAPI** for API documentation
+- **H2 Database** for in-memory storage during development
+
+### 2. [Teste técnico oliveira trust] [Currency Conversion with Laravel 11](https://github.com/herlandio/conversao-de-moeda)
 <div>
   <img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-0.png" height="200px" width="280px" alt="img-0"/>
   <img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-1.png" height="200px" width="280px" alt="img-1"/>
@@ -20,56 +32,7 @@ A web application for converting currencies and applying transaction fees for cr
 - **HTML** for marking
 - **CSS** for stylization
 
-### 2. [API with MongoDB and Node.js](https://github.com/herlandio/API-Nodejs-MongoDB)
-<div>
-  <img src="https://github.com/herlandio/api-nodejs-mongodb/blob/main/img-n-1.png" height="160px" width="280px" alt="img-n-0"/>
-  <img src="https://github.com/herlandio/api-nodejs-mongodb/blob/main/img-n-0.png" height="160px" width="280px" alt="img-n-1"/>
-</div>
-
-This API was created for managing products. It includes:
-
-- **Node.js with Express** for building the RESTful API
-- **File-based logging** for tracking activity
-- **JWT Authentication** for secure access
-- **GitHub Actions** for CI/CD
-- **MongoDB with Mongoose** for database management, connected to **MongoDB Atlas** cloud service
-- **Swagger** for documentation api
-- **Docker** for containerized deployment
-- **Docker-compose** for manager containers
-
-### 3. [Movie Listing Page with Laravel and React](https://github.com/herlandio/Laravel-ReactJS-TheMovieDB)
-<div>
-  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204407.png" height="160px" width="280px" alt="img-0"/>
-  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204508.png" height="160px" width="280px" alt="img-1"/>
-  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204528.png" height="160px" width="280px" alt="img-1"/>
-</div>
-
-A web application to list movies, leveraging:
-
-- **React** for a dynamic and interactive UI
-- **HTML** for marking
-- **CSS** for stylization
-- **Font awesome** for icons
-- **Bootstrap** for style
-- **Laravel** for the back-end
-- **Docker** for containerized deployment
-- **The Movie Database (TMDb) API** for retrieving movie data
-- **Docker** for containerized deployment
-- **Docker-compose** for manager containers
-
-### 4. [Health Plans Management API with Spring boot and Java 17](https://github.com/herlandio/ekan-test-spring-boot-api)
-<div>
-  <img src="https://github.com/herlandio/ekan-test-spring-boot-api/blob/main/src/main/resources/Captura%20de%20tela%202024-08-27%20212342.png" height="160px" width="280px" alt="img-0"/>
-</div>
-
-A RESTful API for managing health plans, developed using:
-
-- **Java 17** with **Spring Boot** for the back-end
-- **Spring Security** for authentication and authorization
-- **Swagger/OpenAPI** for API documentation
-- **H2 Database** for in-memory storage during development
-
-### 5. [Product and Category Management System with PHP and Docker](https://github.com/herlandio/gerenciamento-de-produtos)
+### 3. [Teste técnico WebJump] [Product and Category Management System with PHP and Docker](https://github.com/herlandio/gerenciamento-de-produtos)
 <div>
   <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124733.png" height="160px" width="280px" alt="img-0"/>
   <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124807.png" height="160px" width="280px" alt="img-1"/>
@@ -89,6 +52,43 @@ A basic system for managing products and categories, built with:
 - **Font awesome** for icons
 - **Sweet alert** for alerts
 - **Jquery**
+
+### 4. [API with MongoDB and Node.js](https://github.com/herlandio/API-Nodejs-MongoDB)
+<div>
+  <img src="https://github.com/herlandio/api-nodejs-mongodb/blob/main/img-n-1.png" height="160px" width="280px" alt="img-n-0"/>
+  <img src="https://github.com/herlandio/api-nodejs-mongodb/blob/main/img-n-0.png" height="160px" width="280px" alt="img-n-1"/>
+</div>
+
+This API was created for managing products. It includes:
+
+- **Node.js with Express** for building the RESTful API
+- **File-based logging** for tracking activity
+- **JWT Authentication** for secure access
+- **GitHub Actions** for CI/CD
+- **MongoDB with Mongoose** for database management, connected to **MongoDB Atlas** cloud service
+- **Swagger** for documentation api
+- **Docker** for containerized deployment
+- **Docker-compose** for manager containers
+
+### 5. [Movie Listing Page with Laravel and React](https://github.com/herlandio/Laravel-ReactJS-TheMovieDB)
+<div>
+  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204407.png" height="160px" width="280px" alt="img-0"/>
+  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204508.png" height="160px" width="280px" alt="img-1"/>
+  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204528.png" height="160px" width="280px" alt="img-1"/>
+</div>
+
+A web application to list movies, leveraging:
+
+- **React** for a dynamic and interactive UI
+- **HTML** for marking
+- **CSS** for stylization
+- **Font awesome** for icons
+- **Bootstrap** for style
+- **Laravel** for the back-end
+- **Docker** for containerized deployment
+- **The Movie Database (TMDb) API** for retrieving movie data
+- **Docker** for containerized deployment
+- **Docker-compose** for manager containers
 
 ## Utility Scripts
 

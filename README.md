@@ -5,7 +5,7 @@ I'm developer 7 years and during this time create some projects, so Feel free to
 
 ## Projects
 
-### 1. [Teste técnico Ekan] [Health Plans Management API with Spring boot and Java 17](https://github.com/herlandio/ekan-test-spring-boot-api)
+### 1. [Teste técnico Ekan] [Health Plans Management API with Spring boot and Java 17](https://github.com/herlandio/teste-tecnico-ekan-spring-boot-api)
 <div>
   <img src="https://github.com/herlandio/ekan-test-spring-boot-api/blob/main/src/main/resources/Captura%20de%20tela%202024-08-27%20212342.png" height="160px" width="280px" alt="img-0"/>
 </div>
@@ -17,7 +17,7 @@ A RESTful API for managing health plans, developed using:
 - **Swagger/OpenAPI** for API documentation
 - **H2 Database** for in-memory storage during development
 
-### 2. [Teste técnico oliveira trust] [Currency Conversion with Laravel 11](https://github.com/herlandio/conversao-de-moeda)
+### 2. [Teste técnico oliveira trust] [Currency Conversion with Laravel 11](https://github.com/herlandio/teste-tecnico-oliveira-trust-conversao-de-moeda)
 <div>
   <img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-0.png" height="200px" width="280px" alt="img-0"/>
   <img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-1.png" height="200px" width="280px" alt="img-1"/>
@@ -32,7 +32,7 @@ A web application for converting currencies and applying transaction fees for cr
 - **HTML** for marking
 - **CSS** for stylization
 
-### 3. [Teste técnico WebJump] [Product and Category Management System with PHP and Docker](https://github.com/herlandio/gerenciamento-de-produtos)
+### 3. [Teste técnico WebJump] [Product and Category Management System with PHP and Docker](https://github.com/herlandio/teste-tecnico-webjump-gerenciamento-de-produtos)
 <div>
   <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124733.png" height="160px" width="280px" alt="img-0"/>
   <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124807.png" height="160px" width="280px" alt="img-1"/>

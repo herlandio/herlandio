@@ -13,7 +13,7 @@ I'm developer 7 years and during this time create some projects, so Feel free to
 A RESTful API for managing health plans, developed using:
 
 - **Java 17** with **Spring Boot** for the back-end
-- **Spring Security** for authentication and authorization
+- **Spring Security** for authentication and authorization with JWT
 - **Swagger/OpenAPI** for API documentation
 - **H2 Database** for in-memory storage during development
 

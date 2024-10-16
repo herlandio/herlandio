@@ -70,7 +70,7 @@ A basic system for managing products and categories, built with:
 - **Sweet alert** for alerts
 - **Jquery**
 
-### [Movie Listing Page with Laravel and React](https://github.com/herlandio/Laravel-ReactJS-TheMovieDB)
+### [Movie Listing Page with Laravel and React](https://github.com/herlandio/laravel-reactjs-tmdb)
 <div>
   <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204407.png" height="160px" width="280px" alt="img-0"/>
   <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204508.png" height="160px" width="280px" alt="img-1"/>

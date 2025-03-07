@@ -49,47 +49,6 @@ A web application for converting currencies and applying transaction fees for cr
 - **HTML** for marking
 - **CSS** for stylization
 
-### [Teste técnico WebJump] [Product and Category Management System with PHP and Docker](https://github.com/herlandio/teste-tecnico-webjump-gerenciamento-de-produtos)
-<div>
-  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124733.png" height="160px" width="280px" alt="img-0"/>
-  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124807.png" height="160px" width="280px" alt="img-1"/>
-  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124910.png" height="160px" width="280px" alt="img-1"/>
-  <img src="https://github.com/herlandio/gerenciamento-de-produtos/blob/main/Captura%20de%20tela%202024-08-30%20124934.png" height="160px" width="280px" alt="img-1"/>
-</div>
-
-A basic system for managing products and categories, built with:
-
-- **Pure PHP 7.4** for simplicity and direct control over the codebase
-- **Docker** for containerized deployment
-- **Docker-compose** for manager containers
-- **K8s** orchestration of containers
-- **Bramus-router** for manager routes
-- **Mysql** for database
-- **Bootstrap framework** for style
-- **Font awesome** for icons
-- **Sweet alert** for alerts
-- **Jquery**
-
-### [Movie Listing Page with Laravel and React](https://github.com/herlandio/laravel-reactjs-tmdb)
-<div>
-  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204407.png" height="160px" width="280px" alt="img-0"/>
-  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204508.png" height="160px" width="280px" alt="img-1"/>
-  <img src="https://github.com/herlandio/Laravel-ReactJS-TheMovieDB/blob/main/apithemovieorg/public/Captura%20de%20tela%202024-08-27%20204528.png" height="160px" width="280px" alt="img-1"/>
-</div>
-
-A web application to list movies, leveraging:
-
-- **React** for a dynamic and interactive UI
-- **HTML** for marking
-- **CSS** for stylization
-- **Font awesome** for icons
-- **Bootstrap** for style
-- **Laravel** for the back-end
-- **Docker** for containerized deployment
-- **The Movie Database (TMDb) API** for retrieving movie data
-- **Docker** for containerized deployment
-- **Docker-compose** for manager containers
-
 ## Utility Scripts
 
 I've also developed several scripts for validating documents and creating input masks. Below are some examples:

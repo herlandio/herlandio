@@ -3,7 +3,7 @@
 
 I'm developer 7 years and during this time create some projects.
 
-Feel free to explore my other repositories [here](https://github.com/herlandio?tab=repositories).
+Feel free to explore my repositories [here](https://github.com/herlandio?tab=repositories).
 
 Thank you for visiting my portfolio. If you have any questions or would like to collaborate, don't hesitate to reach out!
 

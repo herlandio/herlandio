@@ -1,18 +1,7 @@
 <h1 align="center">Hi,👋, I'm Herlandio</h1>
 <h3 align="center">Back-end developer</h3>
 
-I'm developer 7 years and during this time create some projects, so Feel free to visit some of my repositories below.
-
-### Document Validation Scripts
-- **[PHP - Validate CPF](https://gist.github.com/herlandio/4fa87cbf156d354f6e5a90468b570a59)**
-- **[Java - Validate CPF](https://gist.github.com/herlandio/b2f8a1e78f7aef1008545b7fb56c965c)**
-- **[JavaScript - Validate CPF](https://gist.github.com/herlandio/4d91e5cee58035d8f0a0e474ce80ab2e)**
-- **[TypeScript - Validate CPF](https://gist.github.com/0ccf8772704942e2232b5a1e5d3387bb)**
-
-### Input Mask Scripts
-- **[JavaScript - Create Masks](https://gist.github.com/herlandio/e0a2f3574223052b9ed7740d712c7611)**
-
-## Additional Repositories
+I'm developer 7 years and during this time create some projects.
 Feel free to explore my other repositories [here](https://github.com/herlandio?tab=repositories).
 
 ---

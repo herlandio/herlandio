@@ -5,7 +5,7 @@ I'm developer 7 years and during this time create some projects, so Feel free to
 
 ## Projects
 
-### [Health Plans Management API with Spring boot and Java 17](https://github.com/herlandio/spring-boot-api)
+### [API with Spring boot and Java 17](https://github.com/herlandio/spring-boot-api)
 <div>
   <img src="https://github.com/herlandio/ekan-test-spring-boot-api/blob/main/src/main/resources/Captura%20de%20tela%202024-08-27%20212342.png" height="160px" width="280px" alt="img-0"/>
 </div>

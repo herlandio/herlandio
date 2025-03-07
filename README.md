@@ -5,7 +5,7 @@ I'm developer 7 years and during this time create some projects, so Feel free to
 
 ## Projects
 
-### [Teste técnico Ekan] [Health Plans Management API with Spring boot and Java 17](https://github.com/herlandio/spring-boot-api)
+### [Health Plans Management API with Spring boot and Java 17](https://github.com/herlandio/spring-boot-api)
 <div>
   <img src="https://github.com/herlandio/ekan-test-spring-boot-api/blob/main/src/main/resources/Captura%20de%20tela%202024-08-27%20212342.png" height="160px" width="280px" alt="img-0"/>
 </div>
@@ -34,7 +34,7 @@ This API was created for managing products. It includes:
 - **Docker** for containerized deployment
 - **Docker-compose** for manager containers
 
-### [Teste técnico oliveira trust] [Currency Conversion with Laravel 11](https://github.com/herlandio/teste-tecnico-oliveira-trust-conversao-de-moeda)
+### [Currency Conversion with Laravel 11](https://github.com/herlandio/teste-tecnico-oliveira-trust-conversao-de-moeda)
 <div>
   <img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-0.png" height="200px" width="280px" alt="img-0"/>
   <img src="https://github.com/herlandio/conversao-de-moeda/blob/main/public/img-1.png" height="200px" width="280px" alt="img-1"/>

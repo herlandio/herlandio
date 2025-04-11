@@ -9,6 +9,5 @@ Thank you for visiting my portfolio. If you have any questions or would like to 
 
 <div>
   <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=herlandio&show_icons=true&locale=en&layout=compact" alt="herlandio" /></p>
-  <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=herlandio&show_icons=true&locale=en" alt="herlandio" /></p>
   <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=herlandio&" alt="herlandio" /></p>
 </div>

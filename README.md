@@ -1,13 +1,62 @@
-<h1 align="center">Hi,👋, I'm Herlandio</h1>
-<h3 align="center">Back-end developer</h3>
+<h1 align="center">Hi 👋, I'm Herlandio</h1>
 
-I'm developer 7 years and during this time create some projects.
+<h3 align="center">Back-end Developer</h3>
 
-Feel free to explore my repositories [here](https://github.com/herlandio?tab=repositories).
+<p align="center">
+  Software developer with 7 years of experience building web applications,
+  APIs and scalable backend solutions.
+</p>
 
-Thank you for visiting my portfolio. If you have any questions or would like to collaborate, don't hesitate to reach out!
+<p align="center">
+  <a href="https://github.com/herlandio?tab=repositories">
+    <strong>View my repositories</strong>
+  </a>
+</p>
 
-<div>
-  <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=herlandio&show_icons=true&locale=en&layout=compact" alt="herlandio" /></p>
-  <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=herlandio&" alt="herlandio" /></p>
-</div>
+<br>
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=herlandio&theme=github_dark"
+    alt="Languages by repository"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=herlandio&theme=github_dark"
+    alt="Languages by commits"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=herlandio&theme=github_dark"
+    alt="GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=herlandio&theme=github_dark&utcOffset=-3"
+    alt="Productive time"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="99%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herlandio&theme=github_dark"
+    alt="GitHub contribution activity"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Thanks for visiting my profile!</strong>
+</p>
+
+<p align="center">
+  Feel free to explore my projects and connect with me.
+</p>
